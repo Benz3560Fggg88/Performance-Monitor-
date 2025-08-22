@@ -38,3 +38,8 @@
 
 ## 📂 Repository Structure
 
+Performance-Monitor/
+│
+├── CPU_RAM Monitor_GUI by psutil.py # GUI version 
+├── CPU_RAM Monitor_CLI by psutil.py # CLI version 
+└── README.md # Documentation
