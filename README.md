@@ -70,14 +70,14 @@ Run the program via Terminal with two modes available:
 1.  **Interactive Mode:**  
     Simply run the script without arguments. The program will ask for settings step by step.  
     ```bash
-    python "CPU_RAM Monitor_CLI by psutil.py"
+    python CPU_RAM Monitor_CLI by psutil.py
     ```
 
 2.  **Argument Mode (CLI Mode):**  
     Control everything in a single command — perfect for automation scripts.  
     ```bash
     # Example: Monitor every 0.5 seconds, use Buffered mode, and export results to Excel with the file name `resnet_log`
-    python "CPU_RAM Monitor_CLI by psutil.py" -s 0.5 -bf -excel -n resnet_log
+    python CPU_RAM Monitor_CLI by psutil.py -s 0.5 -bf -excel -n resnet_log
     ```
 
 **Arguments Table:**
