@@ -45,7 +45,8 @@
 ```bash
 pip install psutil openpyxl PyQt5 matplotlib
 ```
-
+### Download CPU_RAM Monitor by psutil
+Download : [here](https://github.com/Benz3560Fggg88/Performance-Monitor-/releases/tag/v1.0.0)
 ---
 
 ## 💡 คู่มือการใช้งาน (Usage Guide)
