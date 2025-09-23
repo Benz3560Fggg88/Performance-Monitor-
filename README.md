@@ -46,7 +46,7 @@ Open a Terminal or Command Prompt and run a single command to install all requir
 pip install psutil openpyxl PyQt5 matplotlib
 ```
 ### 
-Download CPU_RAM Monitor by psutil : [here](https://github.com/Benz3560Fggg88/Performance-Monitor-/releases/tag/v2.0.0)
+Download CPU_RAM Monitor by psutil : [here](https://github.com/Benz3560Fggg88/Performance-Monitor-/releases/tag/v2.0.1)
 ---
 
 ## 💡 Usage Guide
@@ -184,7 +184,7 @@ This project is licensed under the **MIT License**
 pip install psutil openpyxl PyQt5 matplotlib
 ```
 ### 
-Download CPU_RAM Monitor by psutil : [here](https://github.com/Benz3560Fggg88/Performance-Monitor-/releases/tag/v2.0.0)
+Download CPU_RAM Monitor by psutil : [here](https://github.com/Benz3560Fggg88/Performance-Monitor-/releases/tag/v2.0.1)
 ---
 
 ## 💡 คู่มือการใช้งาน (Usage Guide)
